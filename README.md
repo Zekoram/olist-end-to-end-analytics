@@ -27,6 +27,12 @@ The focus areas:
 
 ## 🏛️ Data Architecture
 
+<br>
+
+![Data Architecture](docs/data_architecture.png)
+
+<br>
+
 This project follows a strict Medallion structure:
 
 ### 🥉 Bronze Layer (Raw Ingestion)
@@ -35,11 +41,6 @@ This project follows a strict Medallion structure:
 - No transformations  
 - Batch processing  
 - Schema isolation (`bronze`)  
-
-<!-- INSERT DATA ARCHITECTURE IMAGE BELOW -->
-<!-- Example:
-![Data Architecture](docs/data_architecture.png)
--->
 
 ---
 
