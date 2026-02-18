@@ -29,7 +29,7 @@ The focus areas:
 
 <br>
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](docs/Data Architecture for Olist Project.png)
 
 <br>
 
